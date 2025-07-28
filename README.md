@@ -23,9 +23,11 @@ git clone https://github.com/yourusername/sympai.git
 cd sympai
 
 2. Create a virtual environment and activate it:
-```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 # Or on macOS/Linux:
 # source venv/bin/activate
+
+
+
 
