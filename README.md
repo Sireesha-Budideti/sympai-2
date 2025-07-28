@@ -22,8 +22,7 @@ SympAI is a Flask-based web application designed to assist users with health-rel
 git clone https://github.com/yourusername/sympai.git
 cd sympai
 
-
-### 2. Create a virtual environment and activate it:
+2. Create a virtual environment and activate it:
 ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
